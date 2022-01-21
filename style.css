@@ -1,0 +1,29 @@
+body{
+    background-image:url("qwertyuiop.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+footer{
+     color:#D6D6E1 ;
+     font-size: medium;
+     position: fixed;
+     bottom: 0;
+     background-image:url("footer.jpg") ;
+     width: 100%;
+}
+
+h3{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    background-color: white;
+    width: 350px;
+}
+
+canvas{
+    border:5px solid rgb(0, 60, 255)
+}
